@@ -2,9 +2,9 @@ import discord
 import asyncio
 
 # Replace 'YOUR_BOT_TOKEN' with your bot's token
-TOKEN = 'MTMzNDg5MTU2NDI1Nzc3NTcxNg.GXFisW.LbaU3Z-dOwCnvBLY0qPyMQvi-EVasnf7n5jffQ'
+TOKEN = ''
 # Replace 'CHANNEL_ID' with the ID of your target channel
-CHANNEL_ID = 1209630079936630824  # e.g., 123456789012345678
+CHANNEL_ID =   # e.g., 123456789012345678
 
 client = discord.Client()
 
